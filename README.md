@@ -14,8 +14,7 @@ Computer Engineering, B.Eng
     <img src="https://img.shields.io/badge/-Linux%20Servers-000000?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+   </div>
 
 
 
