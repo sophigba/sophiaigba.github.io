@@ -18,7 +18,6 @@ Computer Engineering, B.Eng
 </div>
 
 <br><br>
-
 ## Projects
 
 ### Active Directory Project
