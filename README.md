@@ -25,7 +25,7 @@ Computer Engineering, B.Eng
 <br>
 
 ## Projects
-### Active Directory Project
+### Active Directory Deployment and Validation.
 - impact 1
 - impact 2
   
