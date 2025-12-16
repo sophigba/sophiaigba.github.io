@@ -17,6 +17,7 @@ Computer Engineering, B.Eng
 </a>
 </div>
 
+<br><br>
 
 ## Projects
 
